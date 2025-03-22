@@ -1,0 +1,12 @@
+{
+	"Name": "Auto Grimoire",
+	"ID": "autogrimoire",
+	"Author": "qdbp",
+	"Description": "Automatically triggers the selected grimoire effect.",
+	"ModVersion": 1,
+	"GameVersion": 2.053,
+	"Date": "22/03/2025",
+	"Dependencies": [],
+	"AllowSteamAchievs": 1,
+	"Disabled": 1
+}

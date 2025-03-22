@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Cookie Clicker" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://C:/Program Files (x86)/Steam/steamapps/common/Cookie Clicker/resources/app/src/main.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://C:/Program Files (x86)/Steam/steamapps/common/Cookie Clicker/resources/app/src/main.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
